@@ -362,7 +362,8 @@ int main(int argc, char **argv)
 ```
 
 ## Output:
-![image](1.png)
+
+![i1](https://github.com/Guruprasad21002001/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/95342910/fa5e15f4-73e7-47b7-8fe8-139f26e9d0aa)
 
 
 ## Result:
